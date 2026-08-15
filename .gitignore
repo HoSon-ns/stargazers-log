@@ -1,0 +1,12 @@
+# Thư mục dependency của Node.js, không cần commit vì có thể cài lại bằng npm install
+node_modules/
+
+# File chứa biến môi trường / thông tin nhạy cảm, không nên commit lên repo
+.env
+
+# File log sinh ra khi chạy chương trình, không cần lưu trong repo
+*.log
+
+# File hệ thống của macOS Finder, không liên quan đến mã nguồn
+.DS_Store
+.DS_Store
