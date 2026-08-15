@@ -9,3 +9,4 @@ node_modules/
 
 # File hệ thống của macOS Finder, không liên quan đến mã nguồn
 .DS_Store
+.DS_Store
